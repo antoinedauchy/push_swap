@@ -13,3 +13,5 @@ It display the result on the standard output.
 and verify if it is valid and if the instructions give a sorted list of number.
 
 The -v option allow to get a graphic view of the stack being sorted in real time.
+
+![alt text](https://github.com/antoinedauchy/push_swap/blob/master/SreenShot%20push_swap.gif)
